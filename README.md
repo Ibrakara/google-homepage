@@ -1,0 +1,1 @@
+Try to replicate Google.com homepage as a project, via this project I would like to enhance my html and CSS skills.
